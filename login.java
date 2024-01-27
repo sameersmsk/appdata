@@ -1,13 +1,5 @@
-sdf
-sd
-f
-sdf
-sd
-f
-sd
-fsdd
-f
-sddf
-ds
-f
+a = 10
 
+b = 20 
+
+c = 30
